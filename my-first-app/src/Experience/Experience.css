@@ -1,0 +1,42 @@
+.Experience-container{
+    margin: 20px;
+    background-color: aliceblue;
+}
+
+.Exp-description-container{
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 20px;
+
+}
+
+.Exp-list-container{
+
+    border: 5px;
+    padding: 20px;
+
+}
+
+.item-desc{
+    margin: 20px;
+    border-radius: 16px;
+    box-shadow: 0 4px 30 rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+.Experience-container h1 span{
+    font-size: 2.5 rem;
+    color: brown;
+}
+
+.Exp-description-container button{
+    background-color: aquamarine;
+    border: none;
+    border-radius: 5px;
+    color: brown;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    padding:20px;
+}

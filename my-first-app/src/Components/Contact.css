@@ -1,0 +1,18 @@
+.cont-det {
+    font-size:  30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 3;
+    color: #17161a;
+    position: relative;
+  
+}
+
+.cont.cont {
+    font-size: 1 rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 2;
+    color: #17161a;
+    position: relative;
+    padding: 5px;
+
+}
